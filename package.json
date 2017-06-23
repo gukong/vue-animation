@@ -1,0 +1,31 @@
+{
+    "name": "vue-animation",
+    "description": "Vue Animation Components",
+    "version": "0.0.7",
+    "main": "lib/components.common.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@code.aliyun.com:meetin_future/components.git "
+    },
+    "keywords": [
+        "vue",
+        "animation",
+        "animate",
+        "component"
+    ],
+    "author": "nate",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://code.aliyun.com/meetin_future/components/issues"
+    },
+    "homepage": "http://meetin.co",
+    "dependencies": {
+        "animate.css": "^3.5.2",
+        "velocity-animate": "^1.5.0",
+        "vue": "^2.3.2"
+    },
+    "devDependencies": {}
+}
