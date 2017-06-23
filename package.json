@@ -1,7 +1,7 @@
 {
     "name": "vue-animation",
     "description": "Vue Animation Components",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "main": "lib/components.common.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,7 +21,7 @@
     "bugs": {
         "url": "https://code.aliyun.com/meetin_future/components/issues"
     },
-    "homepage": "http://meetin.co",
+    "homepage": "https://github.com/gukong/vue-animation",
     "dependencies": {
         "animate.css": "^3.5.2",
         "velocity-animate": "^1.5.0",
